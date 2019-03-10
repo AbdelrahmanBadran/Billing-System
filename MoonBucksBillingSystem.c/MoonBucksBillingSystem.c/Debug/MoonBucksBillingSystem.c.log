@@ -1,0 +1,4 @@
+﻿  MoonBucksBillingSystem.c.cpp
+c:\users\bondo\desktop\moonbucksbillingsystem.c\moonbucksbillingsystem.c\mbbs.h(283): warning C4715: 'acc_Input': not all control paths return a value
+c:\users\bondo\desktop\moonbucksbillingsystem.c\moonbucksbillingsystem.c\moonbucksbillingsystem.c.cpp(144): warning C4715: 'account_login': not all control paths return a value
+  MoonBucksBillingSystem.c.vcxproj -> C:\Users\bondo\Desktop\MoonBucksBillingSystem.c\Debug\MoonBucksBillingSystem.c.exe

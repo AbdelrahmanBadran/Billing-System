@@ -1,0 +1,5 @@
+Hey, I'm excited you're testing my program
+
+Please make sure to setup your Admin Account successfully And Use Your credentials to login.
+
+To Re-setup, Delete the files generated and Re-Run 
